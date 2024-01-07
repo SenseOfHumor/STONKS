@@ -9,7 +9,7 @@ from plotly import graph_objs as go
 
 START = "2014-01-01"
 TODAY = date.today().strftime("%Y-%m-%d") #format of the date
-st.title("STONKS 📈")
+st.title("STOONKS 📈")
 
 stocks = ("AAPL", "GOOG", "MSFT", "GME")
 
